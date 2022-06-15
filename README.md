@@ -14,6 +14,7 @@ Github Stats
 Languages
 </h1>
 <div align = "center">
+
 <img width = "48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img width = "48" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img width = "48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -39,18 +40,17 @@ Frameworks
 Get in Touch
 </h1>
 
-<div align="center" >
-
+<div align="center">
 <a href = "https://www.facebook.com/abhimanyugupta.neo/">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" />
 </a>
 <a href = "https://twitter.com/GuptaAabhimanyu">
-<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
+<img width="32" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />
 </a>
 <a href ="https://www.instagram.com/abhimanyu10gupta/">
-<img width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
+<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 <a href = "https://www.linkedin.com/in/aabhimanyu-gupta/">
-<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
+<img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 </div>
