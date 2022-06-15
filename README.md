@@ -6,13 +6,15 @@ Hi! Welcome to my Github Profile.
 Github Stats
 </h1>  -->
 <div align="center">
+
 <img align ="center" alt="abhimanyu10gupta Github Stats" src="https://github-readme-stats-abhimanyu10gupta.vercel.app/api?username=abhimanyu10gupta&&theme=dark&title_color=83eeff&text_color=ffffff&icon_color=9fef00&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
 </div>
+
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=396 align="center" src="https://github-readme-stats-abhimanyu10gupta.vercel.app/api/top-langs/?username=abhimanyu10gupta&&theme=dark&title_color=9fef00&text_color=ffffff&icon_color=9fef00&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=396 align="center" src="https://github-readme-stats-abhimanyu10gupta.vercel.app/api/top-langs/?username=abhimanyu10gupta&&theme=dark&title_color=83eeff&text_color=ffffff&icon_color=9fef00&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+</div>
 
 <br>
 <h1 align="center" style="color:#83eeff">
